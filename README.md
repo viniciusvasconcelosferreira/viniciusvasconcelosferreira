@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando com front-end e back-end
 - 🌱 Atualmente estou aprendendo Laravel, React, Power Apps e Python
-- 📫 Como entrar em contato comigo: viniciusvasconcelos.ferreira@gmail.com
+- 📫 Como entrar em contato comigo: viniciusvasconcelos.ferreira@gmail.com ou https://t.me/Vinicius_Ferreira
 - 😄 Pronomes: ele/dele
 - ⚡ <i>Programar é como escrever um livro. Se você perder uma única vírgula na página 156, a coisa toda não faz nenhum sentido - Sioeray</i>
 
@@ -28,7 +28,8 @@
 ##
 <div>
   <a href = "mailto:viniciusvasconcelos.ferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-ferreira-b67a88180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-ferreira-b67a88180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/Vinicius_Ferreira" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  
    ![Snake animation](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
