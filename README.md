@@ -69,4 +69,4 @@
 <strong>Did you like it? That's great 😄</strong>
 <br/>
 <p>If you want to buy me some coffee or tea so we can talk sometime 🙄😉</p>
-<a href="https://www.buymeacoffee.com/viniferreira"><img align="left" height="40" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png"/></a>
+<a href="https://www.buymeacoffee.com/viniferreira" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
