@@ -3,7 +3,7 @@
 ## About Me
 - 🔭 I'm a Computer Science student at UnB
 - 🌱 I'm currently learning Laravel, React, Power Apps and Python
-- 😄 Pronouns: he/it
+- 😄 Pronouns: he/him
 - ⚡ <i>Programming is like writing a book. If you miss a single comma on page 156 the whole thing doesn't make any sense - Sioeray</i>
 
 ## Github Stats
