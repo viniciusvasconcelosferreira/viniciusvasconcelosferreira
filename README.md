@@ -3,7 +3,6 @@
 ## About Me
 - 🔭 I'm a Computer Science student at UnB
 - 🌱 I'm currently learning Laravel, React, Power Apps and Python
-- 📫 How to contact me: viniciusvasconcelos.ferreira@gmail.com ou https://t.me/Vinicius_Ferreira
 - 😄 Pronouns: he/it
 - ⚡ <i>Programming is like writing a book. If you miss a single comma on page 156 the whole thing doesn't make any sense - Sioeray</i>
 
