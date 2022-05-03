@@ -1,6 +1,6 @@
-# <h1 align="center">👋 Oi! eu sou o Vinícius [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.en.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.es.md) [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.fr.md)</h1>
+# <h1 align="center">👋 Hi! I'm Vinicius [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.en.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.es.md) [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/master/README.fr.md)</h1> 
 
-## ✨ Sobre mim
+## ✨ About Me
 
 - 🔭 I'm a Computer Science student at UnB
 - 🌱 I'm currently learning Laravel, React, Power Apps and Python
@@ -8,27 +8,27 @@
 - ⚡ <i>Programming is like writing a book. If you miss a single comma on page 156 the whole thing doesn't make any sense
     - Sioeray</i>
 
-## 📈 Estatísticas do Github
+## 📈 Github Stats
 
 <details>
-  <summary>Estatísticas do perfil do GitHub</summary>
+  <summary>GitHub Profile Stats</summary>
   <div align="left">
     <a href="https://github.com/viniciusvasconcelosferreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvasconcelosferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvasconcelosferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=en"/>
     </a>
   </div>
 </details>
 
 <details>
-  <summary>Linguagens mais usadas</summary>
+  <summary>Most Used Languages</summary>
   <div align="left">
     <a href="https://github.com/viniciusvasconcelosferreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvasconcelosferreira&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvasconcelosferreira&layout=compact&langs_count=7&theme=dark&locale=en"/>
     </a>
   </div>
 </details>
 
-## 🗂️ Linguagens
+## 🗂️ Languages
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Vini-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -43,7 +43,7 @@
   <img align="center" alt="Vini-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
-## 🛠 Ferramentas
+## 🛠 Tools
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Vini-Ps" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
@@ -62,7 +62,7 @@
   <img align="center" alt="Vini-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
-## 🔗 Contate-me
+## 🔗 Contact Me
 
 <div>
   <a href = "mailto:viniciusvasconcelos.ferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -70,14 +70,14 @@
   <a href="https://t.me/Vinicius_Ferreira" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
-## 😋 Divirta-se
+## 😋 Enjoy
 
 <div align="center">
   <!--![Snake animation](https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg)-->
   <img src="https://github.com/viniciusvasconcelosferreira/viniciusvasconcelosferreira/blob/output/github-contribution-grid-snake.svg">
 </div>
 <br/>
-<strong>Você gostou? Isso é ótimo 😄</strong>
+<strong>Did you like it? That's great 😄</strong>
 <br/>
-<p>Se você quiser me comprar um café ou chá para que possamos conversar em algum momento 🙄😉</p>
+<p>If you want to buy me some coffee or tea so we can talk sometime 🙄😉</p>
 <a href="https://www.buymeacoffee.com/viniferreira" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
