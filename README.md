@@ -27,6 +27,13 @@
   </div>
 </details>
 
+<details>
+  <summary>Gráfico das contribuições</summary>
+  <div align="left">
+  <a href="https://github.com/viniciusvasconcelosferreira/github-readme-activity-graph"><img alt="Gráfico de Atividades de Vinícius" src="https://activity-graph.herokuapp.com/graph?username=viniciusvasconcelosferreira&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&locale=pt-br" /></a>
+  </div>
+</details>
+
 ## 🗂️ Linguagens
 
 <div style="display: inline-block"><br>
