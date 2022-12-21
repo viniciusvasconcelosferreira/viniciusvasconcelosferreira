@@ -27,13 +27,6 @@
   </div>
 </details>
 
-<details>
-  <summary>Contribution Chart</summary>
-  <div align="left">
-  <a href="https://github.com/viniciusvasconcelosferreira/github-readme-activity-graph"><img alt="Gráfico de Atividades de Vinícius" src="https://activity-graph.herokuapp.com/graph?username=viniciusvasconcelosferreira&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&locale=pt-br" /></a>
-  </div>
-</details>
-
 ## 🗂️ Languages
 
 <div style="display: inline-block"><br>
@@ -64,7 +57,7 @@
   <img align="center" alt="Vini-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Vini-GitLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   <img align="center" alt="Vini-Bitbucket" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
-  <img align="center" alt="Vini-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Vini-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
   <img align="center" alt="Vini-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
